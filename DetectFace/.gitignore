@@ -1,0 +1,11 @@
+# Ignore the user-specific initial_cache file
+initial_cache.cmake
+
+# Ignore Eclipse project files
+.project
+.cproject
+
+# Debug/Release/build directories
+Debug/
+Release/
+build/
